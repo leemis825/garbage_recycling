@@ -1,27 +1,31 @@
 <!DOCTYPE html>
 <html lang="ko">
+
 <head>
     <meta charset="UTF-8">
-    <title>EfficientNet 분류 결과</title>
+    <title>쓰레기 분류 예측</title>
 </head>
-<body>
-    <h2> EfficientNet 분류 결과</h2>
 
-    <form method="POST" action="/predict" enctype="multipart/form-data">
-        <label>이미지 업로드:</label>
+<body>
+    <h2>이미지를 업로드하세요</h2>
+    <form method="POST" enctype="multipart/form-data">
         <input type="file" name="file" accept="image/*" required>
         <button type="submit">예측하기</button>
     </form>
 
-    {% if result %}
-        <h3>📊 예측 결과</h3>
-        {% for model_key, res in result.items() %}
-            <p><strong>모델 {{ model_key }}</strong> → 클래스: {{ res.class_ }} ({{ res.confidence }})</p>
-        {% endfor %}
+    {% if error %}
+    <p style="color:red;">{{ error }}</p>
     {% endif %}
 
-    {% if error %}
-        <p style="color: red;">에러: {{ error }}</p>
+    {% if result %}
+    <h3>예측 결과:</h3>
+    <ul>
+        {% for model_key, res in result.items() %}
+        <li><strong>{{ model_key }} 모델</strong> → {{ res.class_ }} (정확도: {{ res.confidence }})</li>
+        {% endfor %}
+    </ul>
     {% endif %}
+
 </body>
+
 </html>
