@@ -7,9 +7,13 @@
 실제 생활 환경에서 수집한 다양한 이미지(찌그러진 캔, 일회용 컵, 비닐 등)를 기반으로 학습된  
 PyTorch 모델을 통해 **보다 현실에 가까운 예측**이 가능하도록 설계했습니다.
 ---
-![initial](https://github.com/user-attachments/assets/62407975-ed8c-4a22-b50c-872f8e4311d3)
-<img src="https://github.com/user-attachments/assets/62407975-ed8c-4a22-b50c-872f8e4311d3" width ="400" height="800">
+<img width="651" height="937" alt="Image" src="https://github.com/user-attachments/assets/62407975-ed8c-4a22-b50c-872f8e4311d3" />
 
+<img width="602" height="917" alt="Image" src="https://github.com/user-attachments/assets/9174f4b1-dce9-4c71-a058-0f29b4de3600" />
+
+<img width="1880" height="938" alt="Image" src="https://github.com/user-attachments/assets/9bc132dd-3c5c-4640-9fc6-5b9250e3705c" />
+
+<img width="772" height="938" alt="Image" src="https://github.com/user-attachments/assets/a4622518-b102-433d-9a8d-fd88f1d6a701" />
 
 ### 최종 반영 모델: ResNet18 (Fine-tuned)
 
