@@ -15,12 +15,15 @@ PyTorch 모델을 통해 **보다 현실에 가까운 예측**이 가능하도�
 ### 사진 업로드
 <img width="420" height="650" alt="Image" src="https://github.com/user-attachments/assets/9174f4b1-dce9-4c71-a058-0f29b4de3600" />
 <br/>
+
 ### 분석 결과 
 <img width="420" height="650" alt="Image" src="https://github.com/user-attachments/assets/e9d3ccf8-b934-4b1d-9018-c99fa3fd2d3c" />
 <br/>
+
 ### 상세 정보 및 공유 기능
 <img width="420" height="650" alt="Image" src="https://github.com/user-attachments/assets/a4622518-b102-433d-9a8d-fd88f1d6a701" />
 
+---
 ### 최종 반영 모델: ResNet18 (Fine-tuned)
 
 본 프로젝트에서는 PyTorch 기반의 사전학습된 ResNet18 모델을 활용하여 분리수거 이미지 분류 모델을 구축했습니다.  
