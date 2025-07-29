@@ -6,6 +6,7 @@
 
 실제 생활 환경에서 수집한 다양한 이미지(찌그러진 캔, 일회용 컵, 비닐 등)를 기반으로 학습된  
 PyTorch 모델을 통해 **보다 현실에 가까운 예측**이 가능하도록 설계했습니다.
+
 ---
 ### 사이트 접속 
 <img width="420" height="650" alt="Image" src="https://github.com/user-attachments/assets/62407975-ed8c-4a22-b50c-872f8e4311d3" />
