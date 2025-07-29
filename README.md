@@ -8,20 +8,25 @@
 PyTorch 모델을 통해 **보다 현실에 가까운 예측**이 가능하도록 설계했습니다.
 
 ---
-### 사이트 접속 
+
+<div align="center">
+  
+### <사이트 접속> 
 <img width="420" height="650" alt="Image" src="https://github.com/user-attachments/assets/62407975-ed8c-4a22-b50c-872f8e4311d3" />
 <br/>
 
-### 사진 업로드
+### <사진 업로드>
 <img width="420" height="650" alt="Image" src="https://github.com/user-attachments/assets/9174f4b1-dce9-4c71-a058-0f29b4de3600" />
 <br/>
 
-### 분석 결과 
+### <분석 결과> 
 <img width="420" height="650" alt="Image" src="https://github.com/user-attachments/assets/e9d3ccf8-b934-4b1d-9018-c99fa3fd2d3c" />
 <br/>
 
-### 상세 정보 및 공유 기능
+### <상세 정보 및 공유 기능>
 <img width="420" height="650" alt="Image" src="https://github.com/user-attachments/assets/a4622518-b102-433d-9a8d-fd88f1d6a701" />
+
+</div>
 
 ---
 ### 최종 반영 모델: ResNet18 (Fine-tuned)
