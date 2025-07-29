@@ -105,5 +105,6 @@ PyTorch 모델을 통해 **보다 현실에 가까운 예측**이 가능하도�
 * 버전 관리 및 협업 : GitHub, 디스코드
 ---
 ### 개발 공통 사항 
-* 변수 이름 표기법 : 함수/변수 → camelCase </br>
-                   : 클래스명 → PascalCase
+* 변수 이름 표기법</br>
+  : 함수/변수 → camelCase </br>
+  : 클래스명 → PascalCase
