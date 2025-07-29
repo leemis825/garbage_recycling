@@ -8,7 +8,7 @@
 PyTorch 모델을 통해 **보다 현실에 가까운 예측**이 가능하도록 설계했습니다.
 ---
 ![initial](https://github.com/user-attachments/assets/62407975-ed8c-4a22-b50c-872f8e4311d3)
-<img width="800" height="400" alt="[image" src="https://github.com/user-attachments/assets/62407975-ed8c-4a22-b50c-872f8e4311d3"] />
+<img src="https://github.com/user-attachments/assets/62407975-ed8c-4a22-b50c-872f8e4311d3" width ="400" height="800">
 
 
 ### 최종 반영 모델: ResNet18 (Fine-tuned)
