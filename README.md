@@ -10,22 +10,39 @@ PyTorch 모델을 통해 **보다 현실에 가까운 예측**이 가능하도�
 ---
 
 <div align="center">
-  
+
+### <회원 가입>
+
+<img width="529" height="544" alt="Image" src="https://github.com/user-attachments/assets/94f61aac-c6f2-4540-8267-ac6983839617" />
+<br/>
+
+### <로그인>
+<img width="421" height="352" alt="Image" src="https://github.com/user-attachments/assets/b219770e-1656-4da5-88f7-06da0a20528e" />
+<br/>  
+
 ### <사이트 접속> 
-<img width="420" height="650" alt="Image" src="https://github.com/user-attachments/assets/62407975-ed8c-4a22-b50c-872f8e4311d3" />
+<img width="1319" height="641" alt="Image" src="https://github.com/user-attachments/assets/1f1c83ab-7856-4540-827b-8bec181cca1d" />
 <br/>
 
-### <사진 업로드>
-<img width="420" height="650" alt="Image" src="https://github.com/user-attachments/assets/9174f4b1-dce9-4c71-a058-0f29b4de3600" />
+### <사진 업로드 및 분석 결과>
+<img width="1318" height="629" alt="Image" src="https://github.com/user-attachments/assets/35af91eb-80cc-4019-8ea4-3e84f8b50583" />
 <br/>
 
-### <분석 결과> 
-<img width="420" height="650" alt="Image" src="https://github.com/user-attachments/assets/e9d3ccf8-b934-4b1d-9018-c99fa3fd2d3c" />
+### <분석 결과에 따른 상세 정보> 
+<img width="1002" height="564" alt="Image" src="https://github.com/user-attachments/assets/4783e683-4b11-4a85-81d8-ac3fbab03ca0" />
 <br/>
 
-### <상세 정보 및 공유 기능>
-<img width="420" height="650" alt="Image" src="https://github.com/user-attachments/assets/a4622518-b102-433d-9a8d-fd88f1d6a701" />
+### <내 분석 기록 정보>
+<img width="1134" height="685" alt="Image" src="https://github.com/user-attachments/assets/4a0b5307-2c60-4beb-b60f-2874dc7e8b32" />
+<br/>
 
+### <분석 정보 공유>
+<img width="1086" height="759" alt="Image" src="https://github.com/user-attachments/assets/6c394925-955a-4c04-a516-45fef8a46f6a" />
+<br/>
+
+### <공유 링크>
+<img width="551" height="634" alt="Image" src="https://github.com/user-attachments/assets/7c3506bf-85c6-4087-8033-e62bf21e040c" />
+<br/>
 </div>
 
 ---
