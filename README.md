@@ -1,4 +1,4 @@
-# 이건 무슨 재활용 쓰레기 일까?
+<img width="919" height="523" alt="image" src="https://github.com/user-attachments/assets/0416b494-f336-48a3-a33e-c6b3242ba538" /># 이건 무슨 재활용 쓰레기 일까?
 ## ♻️ Garbage Classifier: AI 기반 쓰레기 분류 서비스
 
 **Garbage Classifier**는 사용자가 업로드한 쓰레기 이미지를 분석하여  
@@ -121,10 +121,11 @@ PyTorch 모델을 통해 **보다 현실에 가까운 예측**이 가능하도�
 ---
 ### 사용한 개발 툴
 * Front-End : React, Vite, JavaScript
-* Back-End : Flask, Python
+* Back-End : Flask, Python, SpringBoot
 * AI 모델링 : PyTorch, ResNet18 (fine-tuned) 
 * DB : MySQL
 * 버전 관리 및 협업 : GitHub, 디스코드
+* 개발 환경(IDE) : Visual Studio Code
 ---
 ### 개발 공통 사항 
 * 변수 이름 표기법</br>
