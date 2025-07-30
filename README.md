@@ -1,4 +1,4 @@
-<img width="919" height="523" alt="image" src="https://github.com/user-attachments/assets/0416b494-f336-48a3-a33e-c6b3242ba538" /># 이건 무슨 재활용 쓰레기 일까?
+# 이건 무슨 재활용 쓰레기 일까?
 ## ♻️ Garbage Classifier: AI 기반 쓰레기 분류 서비스
 
 **Garbage Classifier**는 사용자가 업로드한 쓰레기 이미지를 분석하여  
